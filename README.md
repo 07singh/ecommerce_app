@@ -51,11 +51,6 @@ A comprehensive, production-ready e-commerce mobile application built with Flutt
 
 ## 📸 Screenshots
 
-### Onboarding & Authentication
-<div align="center">
-  <img src="readme image/FlutterShop_Intro.gif" alt="App Walkthrough" width="600"/>
-</div>
-
 ### Main Screens
 <div align="center">
   <img src="readme image/Device_frame.png" alt="Home Screen" width="250"/>
