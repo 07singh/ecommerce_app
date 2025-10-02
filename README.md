@@ -2,7 +2,6 @@
 
 A comprehensive, production-ready e-commerce mobile application built with Flutter that provides a seamless shopping experience with modern UI/UX design.
 
-![Shoplon Banner](readme image/Build you shop app in days.png)
 
 ## 📱 App Preview
 
