@@ -217,15 +217,10 @@ flutter build ios --release
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+
 
 ## 🙏 Acknowledgments
 
@@ -234,13 +229,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Design inspiration from modern e-commerce apps
 - Open source community for various packages
 
-## 📞 Support
-
-For support, email support@shoplon.com or join our Slack channel.
-
----
-
-<div align="center">
-  <p>Made with ❤️ by Flutter Developers</p>
-  <p><a href="https://github.com/yourusername/shoplon-ecommerce">⭐ Star this repo if you like it!</a></p>
-</div>
