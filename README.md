@@ -216,14 +216,6 @@ flutter build ios --release
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> ed8343681485ef0a1049465de294fe4f0fffbb87
-
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing framework
@@ -231,9 +223,4 @@ flutter build ios --release
 - Design inspiration from modern e-commerce apps
 - Open source community for various packages
 
-<<<<<<< HEAD
-=======
 
-
-
->>>>>>> ed8343681485ef0a1049465de294fe4f0fffbb87
