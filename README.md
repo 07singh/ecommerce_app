@@ -218,9 +218,12 @@ flutter build ios --release
 5. Open a Pull Request
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> ed8343681485ef0a1049465de294fe4f0fffbb87
 
 ## 🙏 Acknowledgments
 
@@ -229,3 +232,9 @@ flutter build ios --release
 - Design inspiration from modern e-commerce apps
 - Open source community for various packages
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> ed8343681485ef0a1049465de294fe4f0fffbb87
